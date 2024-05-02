@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+bash -c ./1-listit
